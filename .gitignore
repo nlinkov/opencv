@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__
+data
+flask-video-streaming
+venv-opencv
+venv-p37-opencv
+video_streaming_with_flask_example
